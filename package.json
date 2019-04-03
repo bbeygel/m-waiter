@@ -4,7 +4,7 @@
   "description": "lets you wait for things. if you just want your code to relax for a bit and wait for the next line to run, this is the package for you.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
   "keywords": [
     "wait",
