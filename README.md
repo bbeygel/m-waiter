@@ -2,7 +2,7 @@ A package that lets you wait for things.
 
 usage:
 ```
-import { wait } from m-waiter;
+const wait = require('m-waiter');
 
 const someAsyncFunction = async () => {
     doSomething();
