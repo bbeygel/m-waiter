@@ -1,6 +1,6 @@
-const wait = async (time = 1000) => {
+const wait = async (ms = 1000) => {
     await new Promise(resolve => {
-        setTimeout(() => resolve(null), time);
+        setTimeout(() => resolve(null), ms);
     });
 }
 
