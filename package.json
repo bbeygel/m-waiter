@@ -13,6 +13,7 @@
     "sleep",
     "timeout"
   ],
+  "repository": "https://github.com/MoldaB/m-waiter.git",
   "author": "Molda",
   "license": "MIT"
 }
