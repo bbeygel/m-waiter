@@ -1,6 +1,6 @@
 {
   "name": "m-waiter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "lets you wait for things. if you just want your code to relax for a bit and wait for the next line to run, this is the package for you.",
   "main": "index.js",
   "scripts": {
